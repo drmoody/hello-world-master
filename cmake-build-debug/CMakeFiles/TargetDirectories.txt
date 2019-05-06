@@ -1,0 +1,3 @@
+/home/dan/CLionProjects/hello-world-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dan/CLionProjects/hello-world-master/cmake-build-debug/CMakeFiles/hello_world_master.dir
+/home/dan/CLionProjects/hello-world-master/cmake-build-debug/CMakeFiles/edit_cache.dir
